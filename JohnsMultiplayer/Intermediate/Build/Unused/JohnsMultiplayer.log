@@ -11,3 +11,11 @@
   Building JohnsMultiplayerEditor...
   Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 8 processes...
+    [1/4] JohnsMultiplayerCharacter.cpp
+    [2/4] UE4Editor-JohnsMultiplayer.lib
+       Bibliothek "C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer.lib" und Objekt "C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer.exp" werden erstellt.
+    [3/4] UE4Editor-JohnsMultiplayer.dll
+       Bibliothek "C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer.suppressed.lib" und Objekt "C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer.suppressed.exp" werden erstellt.
+    [4/4] JohnsMultiplayerEditor.target
+  Total time in Parallel executor: 12,96 seconds
+  Total execution time: 14,53 seconds
