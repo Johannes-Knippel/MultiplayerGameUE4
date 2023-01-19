@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Projects\Unreal\MultiplayerGameUE4).
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-1799.dll
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-1799.pdb
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-8088.dll
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-8088.pdb
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-9456.dll
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Binaries\Win64\UE4Editor-JohnsMultiplayer-9456.pdb
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer-1799.lib
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer-8088.lib
+  Deleted hot-reload file: C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\UE4Editor-JohnsMultiplayer-9456.lib
+  Building JohnsMultiplayerEditor...
+  Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...

@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "JohnsMultiplayer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AwsSdk",
+			"Enabled": true
+		},
+		{
+			"Name": "BMWLogger",
+			"Enabled": true
+		},
+		{
+			"Name": "BMWPluginManager",
+			"Enabled": true
+		},
+		{
+			"Name": "Cardiac",
+			"Enabled": true
+		}
+	]
+}

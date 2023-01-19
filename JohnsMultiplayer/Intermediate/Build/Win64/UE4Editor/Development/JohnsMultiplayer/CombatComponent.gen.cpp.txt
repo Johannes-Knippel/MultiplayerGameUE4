@@ -1,0 +1,5 @@
+C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\JohnsMultiplayer\Definitions.JohnsMultiplayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Source\JohnsMultiplayer/CharacterComponents/CombatComponent.h
+C:\Projects\Unreal\MultiplayerGameUE4\JohnsMultiplayer\Intermediate\Build\Win64\UE4Editor\Inc\JohnsMultiplayer\CombatComponent.generated.h

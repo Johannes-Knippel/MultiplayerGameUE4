@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JohnsMultiplayer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7A37F435-79B5-444C-A42A-1B28E06658C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JohnsMultiplayer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JohnsMultiplayerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4CE44225-3919-4082-A5D2-89E7AB48D1B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JohnsMultiplayer">
+      <UniqueIdentifier>{D2AD7D8F-3537-4D30-9291-3987DC606624}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JohnsMultiplayer\JohnsMultiplayer.Build.cs">
+      <Filter>Source\JohnsMultiplayer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\JohnsMultiplayer.cpp">
+      <Filter>Source\JohnsMultiplayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\JohnsMultiplayer.h">
+      <Filter>Source\JohnsMultiplayer</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\Character">
+      <UniqueIdentifier>{D98C7ABB-E207-45AE-BED0-59A00DAD05C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\Character\JohnsMultiplayerCharacter.cpp">
+      <Filter>Source\JohnsMultiplayer\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\Character\JohnsMultiplayerCharacter.h">
+      <Filter>Source\JohnsMultiplayer\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\CharacterComponents">
+      <UniqueIdentifier>{B22D68FA-A930-43A5-9659-A8B90427568C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\CharacterComponents\CombatComponent.cpp">
+      <Filter>Source\JohnsMultiplayer\CharacterComponents</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\CharacterComponents\CombatComponent.h">
+      <Filter>Source\JohnsMultiplayer\CharacterComponents</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\GameMode">
+      <UniqueIdentifier>{9A4FC29C-404A-4CDD-B91F-22E4CAF2B687}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\GameMode\JohnsMultiplayerGameMode.cpp">
+      <Filter>Source\JohnsMultiplayer\GameMode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\GameMode\JohnsMultiplayerGameMode.h">
+      <Filter>Source\JohnsMultiplayer\GameMode</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\GameMode\JohnsMultiplayerGameModeBase.cpp">
+      <Filter>Source\JohnsMultiplayer\GameMode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\GameMode\JohnsMultiplayerGameModeBase.h">
+      <Filter>Source\JohnsMultiplayer\GameMode</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\HUD">
+      <UniqueIdentifier>{BC3F7FF4-63C2-4226-8AA8-8040BE717190}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\HUD\CharacterOverlay.cpp">
+      <Filter>Source\JohnsMultiplayer\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\HUD\CharacterOverlay.h">
+      <Filter>Source\JohnsMultiplayer\HUD</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\HUD\JohnsHUD.cpp">
+      <Filter>Source\JohnsMultiplayer\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\HUD\JohnsHUD.h">
+      <Filter>Source\JohnsMultiplayer\HUD</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\PlayerController">
+      <UniqueIdentifier>{5A6F6EE0-889B-4272-B316-11C90A91FCEC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\PlayerController\JohnsPlayerController.cpp">
+      <Filter>Source\JohnsMultiplayer\PlayerController</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\PlayerController\JohnsPlayerController.h">
+      <Filter>Source\JohnsMultiplayer\PlayerController</Filter>
+    </ClInclude>
+    <Filter Include="Source\JohnsMultiplayer\Weapon">
+      <UniqueIdentifier>{552B8C63-FC9B-44CB-B06A-18E69068E0F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\Weapon\Projectile.cpp">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\Weapon\Projectile.h">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\Weapon\ProjectileBullet.cpp">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\Weapon\ProjectileBullet.h">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\Weapon\ProjectileWeapon.cpp">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\Weapon\ProjectileWeapon.h">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JohnsMultiplayer\Weapon\Weapon.cpp">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JohnsMultiplayer\Weapon\Weapon.h">
+      <Filter>Source\JohnsMultiplayer\Weapon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
